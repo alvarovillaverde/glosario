@@ -1,0 +1,25 @@
+---
+title: 'Computación Cuántica'
+date: '2025-11-11'
+active: true
+image: 'https://www.computing.es/wp-content/uploads/2019/07/23142_03.jpg'
+creator: 'ÁÁlvaro Villaverde'
+category: 'tecnologia'
+tags:
+    - 'tecnologia'
+    - 'desarrollo'
+synonyms:
+    - información cuántica
+    - cálculo cuántico
+    - computación basada en qubits
+translation: 'quantum computing'
+phrase: 'La computación cuántica promete revolucionar la forma en que procesamos la información.'
+difficulty: 'básico'
+status: 'estable'
+language: 'es'
+related:
+    - 'qubit'
+    - 'algoritmo'
+    - 'superposición'
+source: 'https://es.wikipedia.org/wiki/Computaci%C3%B3n_cu%C3%A1ntica'
+---
