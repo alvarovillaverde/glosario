@@ -14,6 +14,7 @@ synonyms:
     - computación basada en qubits
 translation: 'quantum computing'
 phrase: 'La computación cuántica promete revolucionar la forma en que procesamos la información.'
+description: 'La computación cuántica es un paradigma de procesamiento que aprovecha principios de la mecánica cuántica, como la superposición y el entrelazamiento, para resolver problemas que serían inabordables para los ordenadores clásicos.'
 difficulty: 'básico'
 status: 'estable'
 language: 'es'
